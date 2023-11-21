@@ -1,0 +1,1 @@
+https://github.com/sksmith/go-micro-example/blob/master/config.yml
